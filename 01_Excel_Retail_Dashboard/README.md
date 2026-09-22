@@ -7,4 +7,4 @@ A retail chain needed visibility into product, regional, and monthly sales perfo
 - Microsoft Excel (PivotTables, Charts, Conditional Formatting)
 
 ## Status
-🚧 In Progress
+ In Progress
